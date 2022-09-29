@@ -60,6 +60,13 @@ section p{ /*introduction */
   width: 50%;
   
 }
+/*Step 5 : Carte Produit */
+section div.Product1{
+  width: 300px;
+  border: 15px solid rgb(0, 0, 0);
+  padding: 50px;
+  margin: 20px;
+}
 
 
 
