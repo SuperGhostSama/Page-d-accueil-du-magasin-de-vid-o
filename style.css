@@ -61,13 +61,21 @@ section p{ /*introduction */
   
 }
 /*Step 5 : Carte Produit */
-section div.Product1{
+section div.ProductCard1{
   width: 300px;
   border: 15px solid rgb(0, 0, 0);
   padding: 50px;
   margin: 20px;
 }
-
+section div.ProductCard1 p.Price1{
+  color: gray;
+}
+section div.ProductCard1 p.ActualPrice1{
+  font-weight: bold;
+}
+section div.ProductCard1 p.Saving1{
+  color: green;
+}
 
 
 
