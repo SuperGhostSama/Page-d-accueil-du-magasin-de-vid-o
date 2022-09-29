@@ -51,11 +51,15 @@ header ul.Breadcrumbs li a.TxT2 { /*créer pour decaler le mot LESS THAN €10 d
 }
 
 /*Step 4 : Titre de la page et introduction */
-section h1{
+section h1{/*titre*/
   font-size: 25px;
   margin-left: 39px;
 }
-
+section p{ /*introduction */
+  margin-left: 39px;
+  width: 50%;
+  
+}
 
 
 
