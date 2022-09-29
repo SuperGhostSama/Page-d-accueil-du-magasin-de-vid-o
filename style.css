@@ -61,24 +61,26 @@ section p{ /*introduction */
   
 }
 /*Step 5 : Carte Produit */
-section div.ProductCard1{
-  width: 300px;
-  border: 15px solid rgb(0, 0, 0);
+section div.ProductCard{
+  width: 248px;
+  border: 8px solid rgb(0, 0, 0);
   padding: 50px;
   margin: 20px;
 }
-section div.ProductCard1 p.Price1{
+section div.ProductCard h2.VideoTitle{
+  margin-left: 39px;
+}
+section div.ProductCard p.Price{
   color: gray;
 }
-section div.ProductCard1 p.ActualPrice1{
+section div.ProductCard p.ActualPrice{
   font-weight: bold;
 }
-section div.ProductCard1 p.Saving1{
-  color: green;
+section div.ProductCard p.Saving{
+  color: green; 
 }
+/*Step 6 : Tout mettre en place */
 
-
-
-
-
-
+.TotalCards{
+  display: flex;
+}
