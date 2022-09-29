@@ -4,7 +4,7 @@ body {
     background-color: #ffffff;/*choix de la couleur du background du site*/
   }
 
-/*STEP 2 PARTIE DE LA NAV BAR*/
+/*Step 2 : Navigation*/
 .NavBar ul {
   display : flex;
   list-style: none; /*used to remove the points*/
@@ -29,7 +29,7 @@ body {
   color: #fdfdfd;
 }
 
-/*STEP 3 PARTIE DU BREADCRUMBS*/
+/*Step 3 : Breadcrumbs */
 header ul{ /*utiliser flex pour que tout le mots s affiche l un acoté de l autre + list style none pour enlever le point*/
 
   display : flex;
@@ -49,5 +49,17 @@ header ul.Breadcrumbs li a.TxT1 { /*créer pour decaler le mot USED DVDS du "/"*
 header ul.Breadcrumbs li a.TxT2 { /*créer pour decaler le mot LESS THAN €10 du "/"*/
   margin-left: 30px;
 }
+
+/*Step 4 : Titre de la page et introduction */
+section h1{
+  font-size: 25px;
+  margin-left: 39px;
+}
+
+
+
+
+
+
 
 
