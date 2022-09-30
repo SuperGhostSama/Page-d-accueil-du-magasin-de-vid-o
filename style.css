@@ -83,5 +83,7 @@ section div.ProductCard p.Saving{
 
 .TotalCards{
   display: flex;
-  
+  margin-left: 150px;;
+ 
+
 }
