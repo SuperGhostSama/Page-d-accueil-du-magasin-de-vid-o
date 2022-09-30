@@ -84,6 +84,8 @@ section div.ProductCard p.Saving{
 .TotalCards{
   display: flex;
   margin-left: 150px;;
- 
+}
+/*Reponsivness step*/
+@media (max-width:500px){ 
 
 }
